@@ -42,20 +42,8 @@
 
                                    </div>
                                     <p>
-                                      I'm a third-year bachelor student at the University of Amsterdam studying Artificial Intelligence. I enjoy learning about the ways in which
-                                      seemingly impossible tasks can be solved using Machine Learning techniques. Artificial Intelligence is an incredibly active and fast
-                                      growing field of study which I love being a small part of. Research in Artificial Intelligence yields amazing applications which improve our
-                                      everyday lives.
+                                      I'm a third-year Dutch bachelor student at the University of Amsterdam studying Artificial Intelligence. I enjoy learning about the ways in which seemingly impossible tasks can be solved using Machine Learning techniques. Artificial Intelligence is an incredibly interesting and fast growing field of study which I love being a small part of. Besides Machine Learning, I love working with computers and electronics and learning how they operate. I like playing around with Raspberry Pi's and using them to automate things around the house while, at the same time, learning a lot of new stuff about computers. Furthermore, I like to peek into the inner workings of little programs by disassembling and trying to figure out what each part does. These little puzzles help a lot in understanding the way computers operate at the most basic level. Lastly, I am quite interested in software and network security. I am especially fascinated by the clever ways people manage to exploit obscure vulnerabilities in programs and, perhaps, even more fascinated by the people who manage to withhold such attackers.
                                     </p>
-                                    <p>
-                                      Besides Machine Learning, I love working with computers and learning about how they operate. I like playing around with Raspberry Pi's and
-                                      using them in practice to automate things around the house, while at the same time learning a lot of new stuff about computers. Furthermore,
-                                      I like to peek into the workings of little programs by disassembling and trying to figure out what each part does. These little puzzles
-                                      help a lot in understanding the way a computer interprets human written code. Lastly, I am quite interested in software and network security.
-                                      I am especially fascinated by the clever ways people manage to exploit obscure vulnerabilities in programs and, perhaps, even more fascinated
-                                      by the people who manage to withhold such attackers.
-                                    </p>
-
 
                                   <!-- My Service Start -->
                                   <div class="post-title">

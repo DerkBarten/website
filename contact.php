@@ -39,8 +39,8 @@
                                    </div>
 
                                   <p>
-                                    I am currently unemployed and looking for a job in software development.
-                                    Feel free to contact me if you have a job offer in or near Amsterdam
+                                    I am currently unemployed and looking for a job in software development that can be combined with my study.
+                                    Feel free to contact me if you have a job offer in or near Amsterdam.
                                   </p>
                                      <!-- Intro End -->
 
@@ -55,7 +55,7 @@
                                    <div class="col-md-4 col-sm-4">
                                      <div class="contact-us-detail">
                                       <i class="icon-screen-smartphone color-6"></i>
-                                      <p><a href="tel:+1234567890">+31 0636467842</a></p>
+                                      <p><a href="tel:+310636467842">+31 0636467842</a></p>
                                     </div>
                                    </div>
 
